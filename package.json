@@ -1,0 +1,15 @@
+{
+  "name": "assignmnet10",
+  "version": "1.0.0",
+  "description": "This is the server of assignmnet 10 where my webdata will be uploeaded ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aajamn Sami",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
