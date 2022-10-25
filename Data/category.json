@@ -1,7 +1,9 @@
 [
     {
         "id": "01",
-        "name": "CSS"
+        "name": "Combo",
+        "details": "All courses",
+        "img": "https://photos.google.com/share/AF1QipNiJyibvzNDmPjWqWF3XAfBMQNya4sFmNuf8gs5hKMLsctj_grskbQRflZfFBJKqw/photo/AF1QipNYaVzH9b7K-dL_s0jpj1ny0mpHjkpuhYfi3gYg?key=WkN6eGhaWnBZMUFySmVEd2hMQVlyWXVDZEFNWlNR"
     },
     {
         "id": "02",
