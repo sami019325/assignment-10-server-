@@ -7,22 +7,20 @@
     },
     {
         "id": "02",
-        "name": "JavaScript"
+        "name": "Self Improvement",
+        "details": "You will find self improvement related courses here",
+        "img": "https://photos.google.com/share/AF1QipNiJyibvzNDmPjWqWF3XAfBMQNya4sFmNuf8gs5hKMLsctj_grskbQRflZfFBJKqw/photo/AF1QipNYaVzH9b7K-dL_s0jpj1ny0mpHjkpuhYfi3gYg?key=WkN6eGhaWnBZMUFySmVEd2hMQVlyWXVDZEFNWlNR"
     },
     {
         "id": "03",
-        "name": "React"
+        "name": "Coding",
+        "details": "You will find HTML, CSS, and JavaScript courses here",
+        "img": "https://photos.google.com/share/AF1QipNiJyibvzNDmPjWqWF3XAfBMQNya4sFmNuf8gs5hKMLsctj_grskbQRflZfFBJKqw/photo/AF1QipNYaVzH9b7K-dL_s0jpj1ny0mpHjkpuhYfi3gYg?key=WkN6eGhaWnBZMUFySmVEd2hMQVlyWXVDZEFNWlNR"
     },
     {
         "id": "04",
-        "name": "Sports"
-    },
-    {
-        "id": "05",
-        "name": "Entertainment"
-    },
-    {
-        "id": "06",
-        "name": "Culture"
+        "name": "Business",
+        "details": "You will find negotiation, management, and Accounting courses here",
+        "img": "https://photos.google.com/share/AF1QipNiJyibvzNDmPjWqWF3XAfBMQNya4sFmNuf8gs5hKMLsctj_grskbQRflZfFBJKqw/photo/AF1QipNYaVzH9b7K-dL_s0jpj1ny0mpHjkpuhYfi3gYg?key=WkN6eGhaWnBZMUFySmVEd2hMQVlyWXVDZEFNWlNR"
     }
 ]
