@@ -5,8 +5,8 @@ const cors = require('cors')
 const app = express()
 const port = process.env.PORT || 5000
 
-const categories = require('./Data/category')
-const course = require('./Data/Course')
+const categories = require('./Data/category.json')
+const course = require('./Data/Course.json')
 
 app.use(cors())
 app.get('/', (req, res) => {
@@ -18,6 +18,7 @@ app.get('/category', (req, res) => {
 });
 app.get('/course', (req, res) => {
     res.send(course)
+    console.log(course)
 });
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
