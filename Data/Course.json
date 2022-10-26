@@ -9,7 +9,7 @@
         "name": "Speaking skill",
         "img": "https://bdtgrottammare.files.wordpress.com/2021/03/public-speaking.jpg",
         "title": "This course will help you learn tools and speaking techniques that will improve your speaking ability. You will be able to deal with others more professionally, fluently, and accurately. You will also learn negotiation skills to deal with a formal situation more accurately. However, we will help you to improve your public speaking ability.",
-        "price:": "300",
+        "price": "300",
         "duration": "120 minutes",
         "exam": "3",
         "author": {
@@ -28,7 +28,7 @@
         "name": "Writing skill",
         "img": "https://blogsandclasses.com/wp-content/uploads/2021/05/elearning-writing-3-courses-to-help-you-improve-your-writing-skills.png",
         "title": "Worried about writing? Take this course to understand the fundamentals of writing and improve your writing skill. During this course, you will learn all the grammar and sentence structures that help a person to get good marks in the exam.",
-        "price:": "500",
+        "price": "500",
         "duration": "120 minutes",
         "exam": "3",
         "author": {
@@ -47,7 +47,7 @@
         "name": "Basic web development",
         "img": "https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg",
         "title": "In this course, you will learn HTML, CSS, and JavaScript and develop a total of 8 websites. This course will guide you to become an advanced web developer.",
-        "price:": "1000",
+        "price": "1000",
         "duration": "12 hours",
         "exam": "8",
         "author": {
@@ -66,7 +66,7 @@
         "name": "Fundamental of React",
         "img": "https://www.dynamicedgecreative.com/wp-content/uploads/2021/04/641-6417884_icon-react-js-logo-hd-png-download.png",
         "title": "Wand to be a react expert and take your web development skill 1 step further? Join our Fundamental of React course and learn the most famous framework.",
-        "price:": "1000",
+        "price": "1000",
         "duration": "6 hours",
         "exam": "5",
         "author": {
@@ -85,7 +85,7 @@
         "name": "Learn Accounting",
         "img": "https://www.zambianguardian.com/wp-content/uploads/2021/08/the-difference-between-accounting-and-finance.jpg",
         "title": "Looking for an Accounting course? Take this course to learn Accounting from basic to advance. It will also test your level and guide you accordingly.",
-        "price:": "300",
+        "price": "300",
         "duration": "5 hours",
         "exam": "10",
         "author": {
@@ -104,7 +104,7 @@
         "name": "Business & Negotiation",
         "img": "https://ailit.org/wp-content/uploads/2021/10/Why-Negotiation-Skills-Are-Important-in-Business.jpg",
         "title": "Business and leadership are interlinked with each other. To understand the concept properly and get positive motivation about business join this course. This course will also guild you from collecting funds to generating profit.",
-        "price:": "400",
+        "price": "400",
         "duration": "140 minutes",
         "exam": "0",
         "author": {
