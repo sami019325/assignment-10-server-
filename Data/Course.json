@@ -24,7 +24,7 @@
             "is_todays_pick": "Trending",
             "is_trending": true
         },
-        "category_id": "02",
+        "category_id": "01",
         "name": "Writing skill",
         "img": "https://blogsandclasses.com/wp-content/uploads/2021/05/elearning-writing-3-courses-to-help-you-improve-your-writing-skills.png",
         "title": "Worried about writing? Take this course to understand the fundamentals of writing and improve your writing skill. During this course, you will learn all the grammar and sentence structures that help a person to get good marks in the exam.",
@@ -43,7 +43,7 @@
             "is_todays_pick": "Trending",
             "is_trending": true
         },
-        "category_id": "03",
+        "category_id": "02",
         "name": "Basic web development",
         "img": "https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg",
         "title": "In this course, you will learn HTML, CSS, and JavaScript and develop a total of 8 websites. This course will guide you to become an advanced web developer.",
@@ -62,7 +62,7 @@
             "is_todays_pick": "Trending",
             "is_trending": true
         },
-        "category_id": "04",
+        "category_id": "02",
         "name": "Fundamental of React",
         "img": "https://www.dynamicedgecreative.com/wp-content/uploads/2021/04/641-6417884_icon-react-js-logo-hd-png-download.png",
         "title": "Wand to be a react expert and take your web development skill 1 step further? Join our Fundamental of React course and learn the most famous framework.",
@@ -81,7 +81,7 @@
             "is_todays_pick": "New",
             "is_trending": true
         },
-        "category_id": "05",
+        "category_id": "03",
         "name": "Learn Accounting",
         "img": "https://www.zambianguardian.com/wp-content/uploads/2021/08/the-difference-between-accounting-and-finance.jpg",
         "title": "Looking for an Accounting course? Take this course to learn Accounting from basic to advance. It will also test your level and guide you accordingly.",
@@ -100,7 +100,7 @@
             "is_todays_pick": "Trending",
             "is_trending": true
         },
-        "category_id": "06",
+        "category_id": "03",
         "name": "Business & Negotiation",
         "img": "https://ailit.org/wp-content/uploads/2021/10/Why-Negotiation-Skills-Are-Important-in-Business.jpg",
         "title": "Business and leadership are interlinked with each other. To understand the concept properly and get positive motivation about business join this course. This course will also guild you from collecting funds to generating profit.",

@@ -1,26 +1,26 @@
 [
     {
         "id": "01",
-        "name": "Combo",
-        "details": "All courses",
-        "img": "https://previews.123rf.com/images/houbacze/houbacze1801/houbacze180100266/93081357-banner-best-deal-illustration-design-.jpg?fj=1"
-    },
-    {
-        "id": "02",
         "name": "Self Improvement",
         "details": "You will find self improvement related courses here",
         "img": "https://healthyhispanicliving.com/media/uploads/article/detail_image/shutterstock_1505553932.jpg"
     },
     {
-        "id": "03",
+        "id": "02",
         "name": "Coding",
         "details": "You will find HTML, CSS, and JavaScript courses here",
         "img": "https://www.edology.com/uploads/media/sulu-700x450/00/1720-blog-why-coding-is-so-important-for-IT-jobs-s.jpg?v=2-0"
     },
     {
-        "id": "04",
+        "id": "03",
         "name": "Business",
         "details": "You will find negotiation, management, and Accounting courses here",
         "img": "https://images.businessnewsdaily.com/app/uploads/2019/03/16130221/Write-a-business-plan.png"
+    },
+    {
+        "id": "04",
+        "name": "Combo",
+        "details": "All courses",
+        "img": "https://previews.123rf.com/images/houbacze/houbacze1801/houbacze180100266/93081357-banner-best-deal-illustration-design-.jpg?fj=1"
     }
 ]
