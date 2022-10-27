@@ -1,6 +1,6 @@
 [
     {
-        "_id": "001",
+        "_id": "1",
         "others_info": {
             "is_todays_pick": "New",
             "is_trending": true
@@ -19,7 +19,7 @@
         }
     },
     {
-        "_id": "002",
+        "_id": "2",
         "others_info": {
             "is_todays_pick": "Trending",
             "is_trending": true
@@ -38,7 +38,7 @@
         }
     },
     {
-        "_id": "003",
+        "_id": "3",
         "others_info": {
             "is_todays_pick": "Trending",
             "is_trending": true
@@ -57,7 +57,7 @@
         }
     },
     {
-        "_id": "004",
+        "_id": "4",
         "others_info": {
             "is_todays_pick": "Trending",
             "is_trending": true
@@ -76,7 +76,7 @@
         }
     },
     {
-        "_id": "005",
+        "_id": "5",
         "others_info": {
             "is_todays_pick": "New",
             "is_trending": true
@@ -95,7 +95,7 @@
         }
     },
     {
-        "_id": "006",
+        "_id": "6",
         "others_info": {
             "is_todays_pick": "Trending",
             "is_trending": true
